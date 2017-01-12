@@ -26,5 +26,6 @@ namespace Projet_SIM.Controllers
 
             return View();
         }
+        
     }
 }
