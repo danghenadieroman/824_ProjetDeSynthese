@@ -28,7 +28,6 @@ namespace Projet_SIM.Controllers
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
-            //test2
 
             return View();
         }
