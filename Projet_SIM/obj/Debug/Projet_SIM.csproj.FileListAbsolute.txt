@@ -85,6 +85,5 @@ F:\Workplace\GitHub\ProjetDeSynthese\Projet_SIM\bin\System.Web.WebPages.Razor.xm
 F:\Workplace\GitHub\ProjetDeSynthese\Projet_SIM\bin\Antlr3.Runtime.pdb
 F:\Workplace\GitHub\ProjetDeSynthese\Projet_SIM\bin\Newtonsoft.Json.xml
 F:\Workplace\GitHub\ProjetDeSynthese\Projet_SIM\bin\fr\EntityFramework.resources.dll
-F:\Workplace\GitHub\ProjetDeSynthese\Projet_SIM\obj\Debug\Projet_SIM.csprojResolveAssemblyReference.cache
 F:\Workplace\GitHub\ProjetDeSynthese\Projet_SIM\obj\Debug\Projet_SIM.dll
 F:\Workplace\GitHub\ProjetDeSynthese\Projet_SIM\obj\Debug\Projet_SIM.pdb
